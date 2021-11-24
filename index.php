@@ -9,9 +9,9 @@
     />
     <meta
       name="keywords"
-      content="Text Maze Dominoes Games Worksheets ESL vocabulary"
+      content="Daily Routines Onlines games dominoes gofish Worksheets ESL vocabulary"
     />
-    <title>Esl-ology Printables</title>
+    <title>Daily Routines</title>
     <link rel="icon" type="image/png" href="favicon.png" ; />
     <link rel="stylesheet" href="./css/styles.css" />
       <link rel="stylesheet" href="css/social.css">
@@ -73,7 +73,7 @@
       <h3 class="nav-bar__title">Esl-Ology.Com</h3>
       <div class="nav-bar__title-page">
         <span class="nav-bar__title-page-main" id="pageTitle"
-          >TEXT MAZE FUN</span
+          >DAILY ROUTINES</span
         >
       </div>
       <div class="nav-bar__links">
@@ -115,112 +115,65 @@
       </div>
 
       <div class="introduction">
-        <div class="introduction__img" id="mainpic">
-          <img src="img/Minimaze.webp" alt="decorative" />
-          <div class="dot" id="dot"><img src="img/favicon.png" alt="" /></div>
-        </div>
         <div class="introduction__text">
-          <h1>TEXT MAZES AND PRINTABLES</h1>
           <p>
-            Esl-ology Printables are worksheets that are free to print and
-            download. There are
-            <b style="font-weight: bold">vocabulary dominoes</b>,
-            <b style="font-weight: bold">word searches</b>,
-            <b style="font-weight: bold">text mazes</b> and more. Text mazes are
-            a great alterative to traditional word searches and make great
-            warmers or mini breaks. Find all the letters in a paragraph of text
-            — working horizontally and vertically.
-            <b style="font-weight: bold">Click on the printables</b> to download
-            or print them.
+       Printable materials and links to online games
           </p>
         </div>
       </div>
 
       <div class="main">
 
-        <div class="item1 item">
-          <h2 class="download">Job Go Fish Cards</h2>
+        <div class="item">
+          <h2 class="download">Go Fish! Cards</h2>
           <div class="pdf-class">
-            <a href="docs/JobsGoFish.pdf">
-              <img src="img/JobsGoFish.webp" alt="Jobs go fish cards"
+            <a href="docs/RoutineGoFish.pdf">
+              <img src="img/routines-gofish.webp" alt="routines go fish cards"
             /></a>
           </div>
         </div>
 
-        <div class="item2 item">
-          <h2 class="download">Fortnite Fever Text Maze</h2>
+        <div class="item">
+          <h2 class="download">Bingo Cards with Online Caller</h2>
           <div class="pdf-class">
-            <a href="docs/FORTNITE FEVER.pdf">
-              <img src="img/FortniteFever.webp" alt="Fortnite Text Maze"
+            <a href="bingo-daily-activity.html">
+              <img src="img/routines-bingo.webp" alt="routines bingo cards"
             /></a>
           </div>
         </div>
 
-           <div class="item3 item">
-          <h2 class="download">Get a Job Game</h2>
-          <div class="pdf-class">
-            <a href="docs/JobBoardGame.pdf">
-              <img src="img/JobsBoardGame.webp" alt="Sports go fish cards"
+   <div class="item">
+          <h2 class="download">Memory Game</h2>
+          <div class="ppt-class">
+            <a href="daily-activity-memory.html">
+              <img src="img/routines-memory.webp" alt="Sports go fish cards"
             /></a>
           </div>
         </div>
+        
 
              <div class="item item">
-          <h2 class="download">Sports Dominoes</h2>
+          <h2 class="download"> Dominoes</h2>
           <div class="pdf-class">
-            <a href="docs/SportsDominoes.pdf">
-              <img src="img/SportsDominoes.webp" alt="Sports dominoes"
+            <a href="docs/routine-dominoes.pdf">
+              <img src="img/RoutineDominoes.webp" alt="Sports dominoes"
             /></a>
           </div>
         </div>
 
- <div class="item item ppt">
-          <h2 class="download">Foods Go Fish Cards</h2>
-          <div class="pdf-class">
-            <a href="docs/FoodsGoFish.pdf">
-              <img src="img/FoodsGoFish.webp" alt="Foods Go Fish Cards"
-            /></a>
-          </div>
-        </div>
-
-            <div class="item">
-          <h2 class="download">Sports Go Fish Cards</h2>
-          <div class="pdf-class">
-            <a href="docs/SportsGoFish.pdf">
-              <img src="img/SportsGoFish.webp" alt="Sports go fish cards"
-            /></a>
-          </div>
-        </div>
-
-
-        <div class="item ppt">
-          <h2 class="download">Pre-Int Jeopardy Game</h2>
+   <div class="item">
+          <h2 class="download">Flashcards</h2>
           <div class="ppt-class">
-            <a href="docs/PRE-INTERMILLIONAIRE.ppt">
-              <img src="img/preinterm.webp" alt="PreIntermediate Powerpoint Game"
+            <a href="daily-activity-flashcards.html">
+              <img src="img/routines-flashcards.webp" alt="Sports go fish cards"
             /></a>
           </div>
         </div>
 
-        <div class="item">
-          <h2 class="download">Sports Board Game</h2>
-          <div class="pdf-class">
-            <a href="docs/SportsBoardGame.pdf">
-              <img src="img/SportsBoardGame.webp" alt="Sports Board Game"
-            /></a>
-          </div>
-        </div>
+    
 
-        <div class="item item">
-          <h2 class="download">Animals Go Fish Cards</h2>
-          <div class="pdf-class">
-            <a href="docs/AnimalsGoFish.pdf">
-              <img
-                src="img/AnimalGoFish.webp"
-                alt="Animals go fish cards"
-            /></a>
-          </div>
-        </div>
+
+
 
 
         <div class="sensegen">
@@ -236,112 +189,8 @@
         </script>
         </div>
 
-        <div class="item item">
-          <h2 class="download">Comparisons Text Maze</h2>
-          <div class="pdf-class">
-            <a href="docs/ComparativesSuperlativesTextMaze.pdf">
-              <img
-                src="img/ComparativesSuperlativesTextMaze.jpg"
-                alt="comparatives superlatives text maze"
-            /></a>
-          </div>
-        </div>
+  
 
-        <div class="item item">
-          <h2 class="download">Frequency Adverbs Text Maze</h2>
-          <div class="pdf-class">
-            <a href="docs/FrequencyAdverbsTextMaze.pdf">
-              <img
-                src="img/FrequencyAdverbsTextMaze.webp"
-                alt="Adverbs text maze"
-            /></a>
-          </div>
-        </div>
-
-        <div class="item">
-          <h2 class="download">Past Simple Text Maze</h2>
-          <div class="pdf-class">
-            <a href="docs/PastSimpleTextMaze.pdf">
-              <img src="img/PastSimpleTextMaze.webp" alt="Past simple text maze"
-            /></a>
-          </div>
-        </div>
-
-        <div class="item">
-          <h2 class="download">Present Tenses Text Maze</h2>
-          <div class="pdf-class">
-            <a href="docs/PSimpleContinuous.pdf">
-              <img src="img/PSimpleContinuous.webp" alt="Present Temses text maze"
-            /></a>
-          </div>
-        </div>
-
-        <div class="item">
-          <h2 class="download">Clothes Text Maze</h2>
-          <div class="pdf-class">
-            <a href="docs/ClothesTextMaze.pdf">
-              <img src="img/ClothesTextMaze.webp" alt="clothes text maze"
-            /></a>
-          </div>
-        </div>
-
-        <div class="item">
-          <h2 class="download">Vehicles Text Maze</h2>
-          <div class="pdf-class">
-            <a href="docs/VehiclesTextMaze.pdf">
-              <img src="img/VehiclesTextMaze.webp" alt="vehicles text maze"
-            /></a>
-          </div>
-        </div>
-
-        <div class="item6">
-          <h2 class="download">Christmas Text Maze</h2>
-          <div class="pdf-class">
-            <a href="docs/ChristmasTextMaze.pdf">
-              <img src="img/ChristmasTextMaze.webp" alt="Christmas text maze"
-            /></a>
-          </div>
-        </div>
-
-        <div class="item">
-          <h2 class="download">Vehicles Word Search</h2>
-          <div class="pdf-class item3">
-            <a href="docs/VehiclesWordSearch.pdf">
-              <img src="img/VehiclesWordSearch.webp" alt="Vehicles word search"
-            /></a>
-          </div>
-        </div>
-
-        <div class="item">
-          <h2 class="download">Halloween Board Game</h2>
-          <div class="pdf-class">
-            <a href="docs/HalloweenBoardGame.pdf">
-              <img src="img/HalloweenBoardGame.webp" alt="Halloween Board Game"
-            /></a>
-          </div>
-        </div>
-
-        <div class="sensegen">
-        </style>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6192312197226967" crossorigin="anonymous"></script>
-        <!-- mainpage_top -->
-        <ins class="adsbygoogle mainpage_top"
-             style="display:inline-block"
-             data-ad-client="ca-pub-6192312197226967"
-             data-ad-slot="3393588944"></ins>
-        <script>
-        (adsbygoogle = window.adsbygoogle || []).push({});
-        </script>
-        </div>
-
-        <div class="item">
-          <h2 class="download">Halloween Dominoes</h2>
-          <div class="pdf-class">
-            <a href="docs/HalloweenDominoesPrintable.pdf">
-              <img src="img/HalloweenDominoes.webp" alt="Halloween dominoes"
-            /></a>
-          </div>
-        </div>
       </div>
 
       <div class="links">

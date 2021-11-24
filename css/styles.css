@@ -77,7 +77,8 @@ h4 {
   justify-content: center;
   margin: auto;
   margin-top: 2rem;
-  margin-bottom: 2rem; }
+  margin-bottom: 2rem;
+  background-color: red; }
   @media only screen and (max-width: 37.5em) {
     .sensegen {
       width: 90%;
@@ -531,8 +532,7 @@ h4 {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  border-radius: 5px;
-  box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.1); }
+  border-radius: 5px; }
   @media only screen and (max-width: 75em) {
     .introduction {
       margin: auto; } }
@@ -544,7 +544,6 @@ h4 {
       grid-row: 2/3;
       justify-content: center;
       width: 400px;
-      height: 500px;
       flex-direction: column; } }
   @media only screen and (max-width: 28em) {
     .introduction {
@@ -554,41 +553,6 @@ h4 {
     text-decoration: none;
     color: #368cbf;
     cursor: pointer; }
-  .introduction .dot {
-    background-color: red;
-    position: absolute;
-    width: 23px;
-    height: 23px;
-    border-radius: 50%;
-    top: 3px;
-    left: 76px;
-    opacity: 0; }
-  .introduction .dotter {
-    animation: mazerunner 4s infinite; }
-  .introduction__img {
-    position: relative;
-    width: 200px;
-    height: 200px;
-    background-color: #7ebc59;
-    padding: 20px;
-    align-self: center;
-    justify-self: flex-end;
-    margin-bottom: 2rem;
-    border-radius: 3px;
-    cursor: pointer;
-    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4); }
-    @media only screen and (max-width: 62.5em) {
-      .introduction__img {
-        margin: 2rem 2rem; } }
-    .introduction__img img {
-      width: 100%;
-      height: 100%; }
-  .introduction__text {
-    width: 60%; }
-    @media only screen and (max-width: 37.5em) {
-      .introduction__text {
-        width: 90%;
-        margin-top: 2rem; } }
   .introduction__text p {
     font-size: 2rem;
     line-height: 2.8rem;
@@ -681,19 +645,16 @@ h4 {
   position: relative;
   align-self: center;
   justify-self: start;
-  margin-left: 9rem;
   margin-top: 4rem;
-  display: grid;
-  align-content: center;
+  display: flex;
   justify-content: center;
-  width: 800px;
-  text-align: center;
-  grid-template-rows: auto;
-  grid-template-columns: repeat(auto-fit); }
+  flex-wrap: wrap;
+  align-items: center;
+  width: 900px;
+  text-align: center; }
   @media only screen and (max-width: 75em) {
     .main {
       width: 100vw;
-      margin-right: 9rem;
       display: flex;
       flex-wrap: wrap; } }
   @media only screen and (max-width: 37.5em) {
@@ -717,7 +678,6 @@ b, h2 {
 
 .pdf-class {
   height: 300px;
-  width: auto;
   margin: 4rem;
   transition: all, .2s; }
 
@@ -732,7 +692,6 @@ b, h2 {
 
 .ppt-class {
   height: 300px;
-  width: auto;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -740,8 +699,8 @@ b, h2 {
   margin: 4rem;
   transition: all, .2s; }
 
-.ppt img {
-  width: 100%;
+.ppt-class img {
+  width: 260px;
   height: auto;
   box-shadow: 1px 1px 2px 2px rgba(0, 0, 0, 0.1); }
 
