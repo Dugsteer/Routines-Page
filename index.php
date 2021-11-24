@@ -146,7 +146,7 @@
           <h2 class="download">Memory Game</h2>
           <div class="ppt-class">
             <a href="daily-activity-memory.html">
-              <img src="img/routines-memory.webp" alt="Sports go fish cards"
+              <img src="img/routines-memory.webp" alt="memory game online "
             /></a>
           </div>
         </div>
@@ -156,7 +156,7 @@
           <h2 class="download"> Dominoes</h2>
           <div class="pdf-class">
             <a href="docs/routine-dominoes.pdf">
-              <img src="img/RoutineDominoes.webp" alt="Sports dominoes"
+              <img src="img/RoutineDominoes.webp" alt="Routine dominoes"
             /></a>
           </div>
         </div>
@@ -165,7 +165,7 @@
           <h2 class="download">Flashcards</h2>
           <div class="ppt-class">
             <a href="daily-activity-flashcards.html">
-              <img src="img/routines-flashcards.webp" alt="Sports go fish cards"
+              <img src="img/routines-flashcards.webp" alt="routine flashcards"
             /></a>
           </div>
         </div>
